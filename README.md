@@ -1,70 +1,84 @@
-# KumohSoft
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/184331450?s=200&v=4" alt="User Image">
+<div align="center">
+
+  # KumohSoft
+  
+  <img src="https://avatars.githubusercontent.com/u/184331450?s=200&v=4" alt="KumohSoft Logo" width="150" />
+
+  <br>
+
+  ### 👥 멤버 소개
+
+  | **ChoHyeon** | **Geonoda** | **Honey0423** | **Y-Seungyi** |
+  | :---: | :---: | :---: | :---: |
+  | <img src="https://github.com/user-attachments/assets/6d9490dd-15b1-40e4-8f4b-5db323aaad2d" width="96" height="96" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/113406097?s=96&v=4" width="96" height="96" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/112930703?s=96&v=4" width="96" height="96" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/99523154?s=96&v=4" width="96" height="96" style="border-radius: 50%;"> |
+  | UI/UX 디자이너 | 네트워크 프로그래머 | 맵 디자이너 | 메인 로직 개발자 |
+
+</div>
+
+<br>
+
+## 🛠️ 기술 스택 및 개발 환경
+
+| 프레임워크 / 엔진 | 네트워크 | 백엔드 서비스 |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> | <img src="https://img.shields.io/badge/Photon-004480?style=for-the-badge&logo=photon&logoColor=white"/> | <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/> |
+
+### 📂 프로젝트 관리 & 협업 툴
+<p>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 </p>
-<br>
 
-## 멤버
-| ChoHyeon | Geonoda | Honey0423 | Y-Seungyi |
-|:-------------:|:---------:|:-----:|:---------:|
-| <img src="https://github.com/user-attachments/assets/6d9490dd-15b1-40e4-8f4b-5db323aaad2d" width="96" height="96"> | <img src="https://avatars.githubusercontent.com/u/113406097?s=96&v=4" width="96" height="96"> | <img src="https://avatars.githubusercontent.com/u/112930703?s=96&v=4" width="96" height="96"> | <img src="https://avatars.githubusercontent.com/u/99523154?s=96&v=4" width="96" height="96"> |
-| UI/UX 디자이너 | 네트워크 프로그래머 | 맵 디자이너 | 로직 개발자 |
-<br>
-
-## 기술 스택
-| Languages | Frameworks/Engines | Networking | Services |
-|:---------:|:------------------:|:----------:|:--------:|
-| <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=FFFFFF" /> | <img src="https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/> | <img src="https://img.shields.io/badge/photon-004480?style=flat-square&logo=photon&logoColor=FFFFFF"/> | <img src="https://img.shields.io/badge/firebase-DD2C00?style=flat-square&logo=firebase&logoColor=FFFFFF"/> |
+---
 
 <br>
 
-## 프로젝트 관리
-| Collaboration Tools | Project Management Tools |
-|:------------------:|:------------------------:|
-| <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/> | <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=FFFFFF"/> |
-| <img src="https://img.shields.io/badge/googlesheets-34A853?style=flat-square&logo=googlesheets&logoColor=FFFFFF"/> | |
+<div align="center">
 
-# 프로젝트 소개 - Cheese in the Trap!
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b659c742-c592-4057-a5bb-c37a00385a94"width="500" height="250">
-</p>
+  # 🐱 Cheese in the Trap 🧀
+  
+  <img src="https://github.com/user-attachments/assets/b659c742-c592-4057-a5bb-c37a00385a94" width="600" alt="Cheese in the Trap Main Banner">
+
+</div>
+
 <br>
 
-### 📖 What is Cheese in the Trap?
-"Cheese In The Trap" is a fun and casual tag game where players take on the roles of mice collecting cheese while escaping from the cat. 
-With its cute art style and engaging mechanics, this game provides an enjoyable experience for players of all ages.
+### 📖 게임 소개
+**"Cheese in the Trap"** 은 고양이의 추격을 피해 치즈를 모으는 쥐와, 쥐들을 잡아야 하는 고양이의 박진감 넘치는 **캐주얼 술래잡기 멀티플레이어 게임**입니다. 귀여운 아트 스타일과 직관적인 규칙으로 남녀노소 누구나 즐겁게 플레이할 수 있습니다.
 
-### 🧩 Features
-**Exciting Gameplay**: Play as a mouse collecting cheese or as a cat chasing mice in a dynamic environment.
+<br>
 
-**Casual And Cute Style**: Lighthearted and cute, designed to entertain rather than frighten.
+### 🧩 주요 특징
+* **⚡ 긴장감 넘치는 추격전**: 치즈를 수집하는 쥐와 쥐를 쫓는 고양이의 흥미진진한 플레이를 제공합니다.
+* **🎨 아기자기하고 귀여운 그래픽**: 무섭지 않고 유쾌한 스타일로 제작되어 부담 없이 즐길 수 있습니다.
+* **👥 실시간 멀티플레이**: 친구들과 함께 접속하여 최고 점수를 두고 경쟁해 보세요!
 
-**Multiplayer Game**: Play with friends and compete for the highest score.
+<br>
 
-### 🚀 How to win?
-**Mouse Players**:
-Avoid the cat and collect the cheese
+### 🚀 승리 조건 (How to Win)
 
-Collect 10 cheeses and the escape will open. Run away from the cat!
+#### 🐭 쥐 플레이어 (Mouse)
+1. 고양이를 피해 맵 곳곳에 놓인 **치즈를 수집**하세요.
+2. **치즈 10개**를 모두 모으면 비상 탈출구가 열립니다.
+3. 고양이에게 잡히지 않고 **탈출구로 빠르게 도망치면 승리!**
 
-**Cat Player**:
-Catch all mice before they escape
+#### 🐱 고양이 플레이어 (Cat)
+1. 쥐들이 탈출하기 전에 **모든 쥐를 생포**하세요.
+2. 쥐를 **2번 공격**하면 감옥으로 보내집니다. *(단, 다른 쥐가 탈옥시킬 수 있으니 감옥 주변을 주의하세요!)*
+3. 탈출을 저지하고 **모든 쥐를 탈락시키면 승리!**
 
-After two hits, a mouse is sent to jail. But be careful. They can break out of their prison. 
+<br>
 
-Stop them and catch all the mice!
+### 🎮 게임 실행 방법 (How to Play)
+1. 최신 빌드 파일을 다운로드합니다.
+2. 압축을 해제합니다.
+3. 게임 실행 파일을 클릭하여 친구들과 함께 바로 플레이하세요!
 
-### 🎮 How to play?
-1. git clone https://github.com/KumohSoft/main.git
-2. Open in the Unity
-3. Build and spread to your friends (Max 4)
-4. Play!
+<br>
 
-   or
+---
 
-1. Download 마지막빌드.zip
-2. Unzip
-3. Play!
-   
-### 🤝 Support us
-Donation : 940302-00-959608 gukmin bank
+### 🤝 후원 안내 (Support Us)
+팀의 더 나은 개발 환경과 프로젝트 지정을 위해 후원해 주실 수 있습니다. 감사합니다!
+* **국민은행**: `940302-00-959608`
