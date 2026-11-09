@@ -1,41 +1,5 @@
 <div align="center">
 
-  # KumohSoft
-  
-  <img src="https://avatars.githubusercontent.com/u/184331450?s=200&v=4" alt="KumohSoft Logo" width="150" />
-
-  <br>
-
-  ### 👥 멤버 소개
-
-  | **ChoHyeon** | **Geonoda** | **Honey0423** | **Y-Seungyi** |
-  | :---: | :---: | :---: | :---: |
-  | <img src="https://github.com/user-attachments/assets/6d9490dd-15b1-40e4-8f4b-5db323aaad2d" width="96" height="96" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/113406097?s=96&v=4" width="96" height="96" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/112930703?s=96&v=4" width="96" height="96" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/u/99523154?s=96&v=4" width="96" height="96" style="border-radius: 50%;"> |
-  | UI/UX 디자이너 | 네트워크 프로그래머 | 맵 디자이너 | 메인 로직 개발자 |
-
-</div>
-
-<br>
-
-## 🛠️ 기술 스택 및 개발 환경
-
-| 프레임워크 / 엔진 | 네트워크 | 백엔드 서비스 |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> | <img src="https://img.shields.io/badge/Photon-004480?style=for-the-badge&logo=photon&logoColor=white"/> | <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/> |
-
-### 📂 프로젝트 관리 & 협업 툴
-<p>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-</p>
-
----
-
-<br>
-
-<div align="center">
-
   # 🐱 Cheese in the Trap 🧀
   
   <img src="https://github.com/user-attachments/assets/b659c742-c592-4057-a5bb-c37a00385a94" width="600" alt="Cheese in the Trap Main Banner">
